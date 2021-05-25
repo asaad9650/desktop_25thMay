@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fingerprintdoorlock-8bb72",
+  "private_key_id": "f6372f815074d3c4e35616108eb98ae605450662",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC4hQIwcgEhxfV8\nljKc/jh9f4jBUvhl35Xjr0Q0fnzlvEB/Nu9FLnaFkmFlFCl1nSPLP20z4bI7KgPP\nZkweUrqyCSno/3hl7iAXneP5JPLhfj889Qd8hd5QwjY3qjonwPbULw+f40iV5CYs\nPIgsszqC3RM+0IOkjd2qS9kbX8UcMxt5p0TkBiCZPNfKY7tAqrYqjx/CMwXDnxVo\nYW0nWThTr90AE11Ai8Ofvu2XNtLSgLeJw2cT02IdOfxphG7bY5YJXH01PU/bwBnI\ng2GbV3My+JhBX3K2orGHtbLJEX/jHBwsnBEwqZp+7YqjaFjifaoSAMzEeNzX2Jhu\na0jLXgy9AgMBAAECggEAArcuZ5Ed9CXKLZm2R/oz0aEBXbr/XdxzA8VODym3Y9gn\n6NdhoRaEdwXG+ipYS9tSrgiSbluJeHZvVOuP/jhAeCNLYxrzZiihf0d7Fe0Vx/zI\nKHkAsbP0qCKbkqkmLvSXjVrd83/wTwhrCWagqGvA1jEzuc5uyYqu8vUnzk/UAky1\n1Ya9jmGVhR4t7pef/HOoLlUvkz6f9CMZDU8qb3EhYvJ7jw9DsRfd/2ntNqt8luKO\nb57GqnXJf80e932BuN1FCB7gKING/oigMVM50AT4oQ1rw84V4xQRhai/ruB0gLLp\nlGdLSu9EuWDNmWzoAPGVWTCiKyoC3Qdunb8xp6UjjwKBgQDrJm11nzOW0by3CrQo\nXXDoCpbGbYbO/R5PuDPMm4SpUhbKuR4zyVlMRFvMJc5PLjIVX4menjd8sA1Qk9yx\nO/cY8HnwhVjTDTJFtEv7DRr+q1F/f/1pLxBksDfZcTglgznEFz02HsfyICtRzoj4\nJ8WGJTC0XkWbrvqQlAOexD/xswKBgQDI4Vb79dJuhReJyLHxF5vX8sA8jQWb1PRy\nPMtbHBHqsGnTGGxFG3pfIQOtbYGpGbfJzHmshwGyTyZc14Ut7kGmiEEZQgZTt24u\n3dOQsVRNxZ2XCVooAnlS4tU3AQTqD1nXzPGVEf95v+VlfpvYvXut30f4mizgiQEp\nHb1r9i9vzwKBgQCgg9q0L7hHe2QWjnfsFdy8iH3jdWBQavgF8vdo87/a1O4586Nq\nNkd+iCshb60k36PQcya938KAmqx8FHLRiN1jaMPUKzI23wsyCaDT/l4u+ULohbW1\n1yqZkLCO/XoWIT2NXU+rYdear9riPNnCi2OJ7lkQxkk9vHPNvTu7ZLtBgQKBgQC9\nsUVR0xWu9hF/ND0MfQ3Wg86Sn1zfhd58Dfq+g6hLpeGYzORY8hTBxkxRtioNxFJw\nxp1TlX29os6IN6D0+ZuXJe3LazTMU1hB+4mwhjQk6Ori2JsBUyy8X6WWNmksmehu\nR4MOERveHZ8DE+cZaf1j+IhfM0ATnGyzJflc/PJYswKBgDFPa3jxzU0/Hk65f22/\n20qN4TVX+E5A+n3oZhYIUjCCD+7oSeHxtfdrk7xBnw159J8V1y1oBVNF57zF/qMs\nR8AxWNw0cWK05afr6/kBawkgk1V8KarPZXHFTh+nWajLkHIlEoN7kng3eFBPrUdY\nI0igmnKBJxkhaq1wTYHKW1Ay\n-----END PRIVATE KEY-----\n",
+  "client_email": "fingerprintdoorlock-8bb72@appspot.gserviceaccount.com",
+  "client_id": "109312637160873085118",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fingerprintdoorlock-8bb72%40appspot.gserviceaccount.com"
+}
